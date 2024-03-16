@@ -4,7 +4,7 @@
 
 **Description:**
 
-Project Crossroads aims to bridge the gap in Pakistan's online payment landscape by providing a robust and secure web-based payment gateway for individuals, merchants, and international transactions. Built with Next.js on the frontend and the MERN stack (MongoDB, Express, React, Node.js) on the backend, it offers a comprehensive suite of features to streamline financial transactions.
+Project Crossroads aims to bridge the gap in Pakistan's online payment landscape by providing a robust and secure web-based payment gateway for individuals, merchants, and international transactions. Built with Next.js on the front and the MERN stack (MongoDB, Express, React, Node.js) on the backend, it offers a comprehensive suite of features to streamline financial transactions.
 
 **Features:**
 
@@ -28,7 +28,7 @@ The project is currently in its initial phase. A basic repository structure has 
 
 **Seeking Next.js Freelancers:**
 
-We are actively seeking experienced Next.js freelancers to join the project and contribute to its development. If you're interested in collaborating, please feel free to reach out through the GitHub issue tracker or send a pull request with your contributions.
+We are actively seeking experienced Next.js freelancers to join the project and contribute to its development. If you're interested in collaborating, please feel free to reach out through the GitHub issue tracker or send a pull request with your contributions. If you want to be the part of this epic development then let me know through a Instagram message => @hassancoder
 
 **Getting Started (May 2024 Onwards):**
 
