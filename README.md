@@ -24,11 +24,16 @@ Project Crossroads is committed to incorporating 3DS (3-Domain Secure) standards
 
 **Current Status:**
 
-The project is currently in its initial phase. A basic repository structure has been established, but active development will commence in May 2024.
+The project is currently in its initial phase. A basic repository structure has been established, but active development will commence in May 2024. Anyone free can start the development of this project, I just gave you an idea. I'm currently busy. It's a public repo with no restrictions. So do Npm install and start building now if you are available. Just make sure to write comments for code explanation. No one can stop you from contributing to your loved country Pakistan.
+
+**Idea Came From?**
+
+I Checked all of Pakistan's available payment gateways and wallets like Easypaisa JazzCash, paymob, etc. But All of them are using PHP which is now old fashion compared to large scalable applications. They had made no proper easy ways to let any person implement their gateway easily. PayFast is working fine as I've tried it. https://getstarted.apps.net.pk/signup.
+But All of these ask many as many questions from customers while setting up an account and customers are required to call/Contact them manually to set up a gateway on his/her site/app which disappoints customers a lot. I mean your location and ID verification KYC libraries and AI tools to deal with this all stuff.
 
 **Seeking Next.js Freelancers:**
 
-We are actively seeking experienced Next.js freelancers to join the project and contribute to its development. If you're interested in collaborating, please feel free to reach out through the GitHub issue tracker or send a pull request with your contributions. If you want to be the part of this epic development then let me know through a Instagram message => @hassancoder
+We are actively seeking experienced Next.js freelancers to join the project and contribute to its development. If you're interested in collaborating, please feel free to reach out through the GitHub issue tracker or send a pull request with your contributions. If you want to be part of this epic development then let me know through an Instagram message => @hassancoder
 
 **Getting Started (May 2024 Onwards):**
 
